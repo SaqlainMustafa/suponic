@@ -1,0 +1,19 @@
+deploy_dev:
+  stage: deploy
+  tags: 
+    - artoon-client
+  environment:
+    name: dev
+    url: https://suponic-games.artoon.in/
+  before_script:
+    - eval export PATH=/root/.nvm/versions/node/v10.15.3/bin:${PATH}
+  script:
+    - cd /var/www/html/suponic-games
+    - git pull http://$usr:$pwd@gitlab.artoon.in/WebSites/ReactJS/suponic-games.git
+    - npm install --cache
+    - npm run-script build
+  after_script:
+    - cd /var/www/html/suponic-games
+    - cp htaccess build/.htaccess
+    - ls build/.htaccess 
+  when: manual

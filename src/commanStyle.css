@@ -1,0 +1,29 @@
+.is-invalid-input{
+    border: 1px solid red;
+    margin-bottom:0px !important;
+  }
+.login-form input[type=text]{margin-bottom:1.5rem}
+.text-danger{
+  color: red;
+}
+.selected{
+  color: #fff;
+}
+.selected img{
+  content:url('/images/nav-icon-hover.png');
+}
+.container_1200{
+  max-width: 1200px;
+  margin: auto;
+  width: 100%;
+  
+}
+@media only screen and (max-width: 1200px) {
+  .container_1200{ max-width: 1024px;}
+}
+@media only screen and (max-width: 991px) {
+  .container_1200{ max-width: 768px;}
+}
+@media only screen and (max-width: 768px) {
+  .container_1200{ max-width: 576px;}
+}

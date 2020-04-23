@@ -1,0 +1,380 @@
+{
+  "All Games":{
+    "en":"All Games",
+    "ko":"게임",
+    "zh":"所有游戏",
+    "ja":"すべてのゲーム"
+  },
+  "SGC Shop":{
+    "en":"SGC Shop",
+    "ko":"SGC 스토어",
+    "zh":"SGC商店",
+    "ja":"SGCショップ"
+  },
+  "Community":{
+    "en":"Community",
+    "ko":"커뮤니티",
+    "zh":"社区",
+    "ja":"コミュニティ"
+  },
+  "Clan":{
+    "en":"Clan",
+    "ko":"클랜",
+    "zh":"氏族",
+    "ja":"クラン"
+  },
+  "Notice & News":{
+    "en":"Notice & News",
+    "ko":"공지 및 소식",
+    "zh":"公告与新闻",
+    "ja":"お知らせ＆ニュース"
+  },
+  "Login":{
+    "en":"Login",
+    "ko":"로그인",
+    "zh":"登录",
+    "ja":"ログインする"
+  },
+  "Logout":{
+    "en":"Logout",
+    "ko":"로그 아웃",
+    "zh":"登出",
+    "ja":"ログアウト"
+  },
+  "Register":{
+    "en":"Register",
+    "ko":"회원가입",
+    "zh":"",
+    "ja":"登録"
+  },
+  "Play Now":{
+    "en":"Play Now",
+    "ko":"무료 플레이",
+    "zh":"寄存器",
+    "ja":"今すぐプレイ"
+  },
+  "Rating":{
+    "en":"Rating",
+    "ko":"평가",
+    "zh":"评分",
+    "ja":"格付け"
+  },
+  "Action":{
+    "en":"Action",
+    "ko":"액션",
+    "zh":"行动",
+    "ja":"アクション"
+  },
+  "Adventure":{
+    "en":"Adventure",
+    "ko":"모험",
+    "zh":"冒险",
+    "ja":"冒険"
+  },
+  "Simulation":{
+    "en":"Simulation",
+    "ko":"시뮬레이션",
+    "zh":"模拟",
+    "ja":"シミュレーション"
+  },
+  "Casual":{
+    "en":"Casual",
+    "ko":"캐쥬얼",
+    "zh":"休闲装",
+    "ja":"カジュアル"
+  },
+  "Sports":{
+    "en":"Sports",
+    "ko":"스포츠",
+    "zh":"体育",
+    "ja":"スポーツ"
+  },
+  "Others":{
+    "en":"Others",
+    "ko":"기타",
+    "zh":"其他",
+    "ja":"その他"
+  },
+  "all games":{
+    "en":"all games",
+    "ko":"모든 게임",
+    "zh":"所有游戏",
+    "ja":"すべてのゲーム"
+  },
+  "Download":{
+    "en":"Download",
+    "ko":"다운로드",
+    "zh":"下载",
+    "ja":"ダウンロード"
+  },
+  "There is no game":{
+    "en":"There is no game",
+    "ko":"게임이 없습니다",
+    "zh":"没有游戏",
+    "ja":"ゲームはありません"
+  },
+  "Loading...":{
+    "en":"Loading...",
+    "ko":"로딩...",
+    "zh":"载入中...",
+    "ja":"読み込み中..."
+  },
+  "More Games":{
+    "en":"More Games",
+    "ko":"더 많은 게임",
+    "zh":"更多游戏",
+    "ja":"他のゲーム"
+  },
+  "community news article":{
+    "en":"community news article",
+    "ko":"커뮤니티 뉴스 기사",
+    "zh":"社区新闻文章",
+    "ja":"コミュニティニュース記事"
+  },
+  "Facebook Feed":{
+    "en":"Facebook Feed",
+    "ko":"페이스 북 피드",
+    "zh":"Facebook的饲料",
+    "ja":"Facebookフィード"
+  },
+  "About":{
+    "en":"About",
+    "ko":"회사 소개",
+    "zh":"关于",
+    "ja":"約"
+  },
+  "Support":{
+    "en":"Support",
+    "ko":"지원",
+    "zh":"支持",
+    "ja":"サポート"
+  },
+  "Terms of Use":{
+    "en":"Terms of Use",
+    "ko":"이용 약관",
+    "zh":"使用条款",
+    "ja":"利用規約"
+  },
+  "Privacy Policy":{
+    "en":"Privacy Policy",
+    "ko":"개인정보 처리방침",
+    "zh":"隐私政策",
+    "ja":"個人情報保護方針"
+  },
+  "Notices":{
+    "en":"Notices",
+    "ko":"공지사항",
+    "zh":"告示",
+    "ja":"特記事項"
+  },
+  "Contact Us":{
+    "en":"Contact Us",
+    "ko":"고객문의",
+    "zh":"联系我们",
+    "ja":"お問い合わせ"
+  },
+  "All rights reserved to":{
+    "en":"All rights reserved to",
+    "ko":"권한 보유",
+    "zh":"保留所有权利",
+    "ja":"すべての権利は"
+  },
+  "Purchase":{
+    "en":"Purchase",
+    "ko":"매수",
+    "zh":"采购",
+    "ja":"購入"
+  },
+  "History":{
+    "en":"History",
+    "ko":"거래내역",
+    "zh":"历史",
+    "ja":"歴史"
+  },
+  "Screenshots":{
+    "en":"Screenshots",
+    "ko":"스크린 샷",
+    "zh":"屏幕截图",
+    "ja":"スクリーンショット"
+  },
+  "Login with Suponic Games and Play new and exciting games win SGC":{
+    "en":"Login with Suponic Games and Play new and exciting games win SGC",
+    "ko":"Suponic Games로 로그인하여 SGC로 새롭고 흥미로운 게임을 즐기십시오",
+    "zh":"登录Suponic Games并玩新的刺激游戏赢得SGC",
+    "ja":"Suponic Gamesにログインし、新しいエキサイティングなゲームをプレイしてSGCを獲得"
+  },
+  "New to Suponic Games?":{
+    "en":"New to Suponic Games?",
+    "ko":"Suponic Games를 처음 이용하십니까?",
+    "zh":"Suponic Games的新手？",
+    "ja":"Suponic Gamesは初めてですか？"
+  },
+  "back to":{
+    "en":"back to",
+    "ko":"돌아가기",
+    "zh":"回到",
+    "ja":"戻る"
+  },
+  "Username":{
+    "en":"Username",
+    "ko":"사용자 이름",
+    "zh":"用户名",
+    "ja":"ユーザー名"
+  },
+  "Password":{
+    "en":"Password",
+    "ko":"암호",
+    "zh":"密码",
+    "ja":"パスワード"
+  },
+  "Forgot Password":{
+    "en":"Forgot Password",
+    "ko":"비밀번호를 잊으셨나요",
+    "zh":"忘记密码",
+    "ja":"パスワードをお忘れですか"
+  },
+  "Email":{
+    "en":"Email",
+    "ko":"이메일",
+    "zh":"电子邮件",
+    "ja":"Eメール"
+  },
+  "Confirm Password":{
+    "en":"Confirm Password",
+    "ko":"비밀번호 확인",
+    "zh":"确认密码",
+    "ja":"パスワードを認証する"
+  },
+  "Register to Suponic Game and Earn to Play with Friends Competitors":{
+    "en":"Register to Suponic Game and Earn to Play with Friends Competitors",
+    "ko":"Suponic 게임에 등록하고 친구들과 게임을 즐기십시오",
+    "zh":"注册参加Suponic游戏并赢得与好友竞争对手一起玩的机会",
+    "ja":"Suponic Gameに登録して、友達と対戦する"
+  },
+  "Password must be more than 6 characters in length and contain at least one letter and one number":{
+    "en":"Password must be more than 6 characters in length and contain at least one letter and one number",
+    "ko":"비밀번호는 6 자 이상이어야하며 하나 이상의 문자와 숫자를 포함해야 합니다.",
+    "zh":"密码长度必须超过6个字符，并且至少包含一个字母和一个数字",
+    "ja":"パスワードは6文字以上で、少なくとも1つの文字と1つの数字を含む必要があります"
+  },
+  "Please enter the password you entered above once more":{
+    "en":"Please enter the password you entered above once more",
+    "ko":"위에 입력 한 비밀번호를 한 번 더 입력하십시오",
+    "zh":"请再次输入您在上方输入的密码",
+    "ja":"上記で入力したパスワードをもう一度入力してください"
+  },
+  "Already have an account?":{
+    "en":"Already have an account?",
+    "ko":"이미 계정이 있습니까?",
+    "zh":"已经有帐号了？",
+    "ja":"すでにアカウントをお持ちですか？"
+  },
+  "Forgot Password?":{
+    "en":"Forgot Password?",
+    "ko":"비밀번호를 잊으 셨나요?",
+    "zh":"忘记密码？",
+    "ja":"パスワードをお忘れですか？"
+  },
+  "Withdraw":{
+    "en":"Withdraw",
+    "ko":"빼다",
+    "zh":"退出",
+    "ja":"量"
+  },
+  "Enter Address":{
+    "en":"Enter Address",
+    "ko":"주소 입력",
+    "zh":"输入地址",
+    "ja":"住所を入力"
+  },
+  "Amount":{
+    "en":"Amount",
+    "ko":"양",
+    "zh":"量",
+    "ja":"量"
+  },
+  "NoOfPackage":{
+    "en":"Enter quantity",
+    "ko":"수량을 입력하십시오",
+    "zh":"输入数量",
+    "ja":"数量を入力してください"
+  },
+  "SGC won from wagering can be exchanged at any time on the Suponic exchange, and its value can increase for the SGC holders.":{
+    "en":"SGC won from wagering can be exchanged at any time on the Suponic exchange, and its value can increase for the SGC holders.",
+    "ko":"베팅에서 얻은 SGC는 Suponic 거래소에서 언제든지 교환 할 수 있으며 SGC 보유자에게는 그 가치가 상승 할 수 있습니다.",
+    "zh":"通过投注赢取的SGC可以随时在Suponic交易所进行兑换，其价值对于SGC持有者而言可以增加。",
+    "ja":"賭けで勝ったSGCは、Suponic取引所でいつでも交換でき、その価値はSGC保有者にとって増加します。"
+  },
+  "You can become a millionaire just by playing well on the game freely provided by Suponic. Download “InkWars” from the download section inside the wallet. Play “InkWars” for free, enjoy it, practice it, and think of the strategies to win.":{
+    "en":"You can become a millionaire just by playing well on the game freely provided by Suponic. Download “InkWars” from the download section inside the wallet. Play “InkWars” for free, enjoy it, practice it, and think of the strategies to win.",
+    "ko":"只要在Suponic免费提供的游戏中玩得很好，您就可以成为百万富翁。从钱包内的下载部分下载“ InkWars”。免费玩“ InkWars”，享受它，练习它，并思考获胜的策略。",
+    "zh":"只要在Suponic免费提供的游戏中玩得很好，您就可以成为百万富翁。从钱包内的下载部分下载“ InkWars”。免费玩“ InkWars”，享受它，练习它，并思考获胜的策略。",
+    "ja":"Suponicが自由に提供するゲームを上手にプレイするだけで億万長者になれます。ウォレット内のダウンロードセクションから「InkWars」をダウンロードします。 「InkWars」を無料でプレイして、楽しんで、練習して、勝つための戦略を考えてください。"
+  },
+  "SGC stands for Suponic Game Coin, the crypto currency used in the Suponic Game Platform.":{
+    "en":"SGC stands for Suponic Game Coin, the crypto currency used in the Suponic Game Platform.",
+    "ko":"SGC는 Suponic Game Platform에서 사용되는 암호화 통화 인 Suponic Game Coin의 약자입니다.",
+    "zh":"SGC代表Suponic Game Coin，即Suponic Game Platform中使用的加密货币。",
+    "ja":"SGCはSuponic Game Coinの略で、Suponic Game Platformで使用される暗号通貨です。"
+  },
+  "Use the SGC you received from the registration to play wagering mode against other players. You can receive 5 SGC for free if you create the SGC Wallet and completes the KYC. SGC will be listed to the Supoinc Exchange in May 1, 2020, at the price of $1.":{
+    "en":"Use the SGC you received from the registration to play wagering mode against other players. You can receive 5 SGC for free if you create the SGC Wallet and completes the KYC. SGC will be listed to the Supoinc Exchange in May 1, 2020, at the price of $1.",
+    "ko":"등록에서받은 SGC를 사용하여 다른 플레이어와 베팅 모드를 플레이하십시오. SGC Wallet을 생성하고 KYC를 완료하면 5 SGC를 무료로받을 수 있습니다. SGC는 2020 년 5 월 1 일에 $ 1의 가격으로 Supoinc Exchange에 상장 될 것입니다.",
+    "zh":"使用您从注册中获得的SGC对其他玩家进行下注模式。如果您创建SGC钱包并完成KYC，则可以免费获得5个SGC。 SGC将于2020年5月1日在Supoinc交易所上市，价格为1美元。",
+    "ja":"登録から受け取ったSGCを使用して、他のプレイヤーに対して賭博モードをプレイします。 SGCウォレットを作成してKYCを完了すると、5つのSGCを無料で受け取ることができます。 SGCは、2020年5月1日、1ドルの価格でSupoinc取引所に上場されます。"
+  },
+  "Cabal Online is a free-to-play":{
+    "en":"Cabal Online is a free-to-play, 3D massively multiplayer online role-playing game developed by South Korean company ESTsoft. Different localizations of the game exist for various countries and regions. Although free-to-play, the game makes use of the freemium business model by implementing an 'Item Shop', both in-game and via web, allowing players to purchase special premium coins using real currency, in order to acquire exclusive game enhancements and features, useful items and assorted vanity content",
+    "ko":"Cabal Online은 한국 회사 인 ESTsoft가 개발 한 무료 3D 대규모 멀티 플레이어 온라인 롤 플레잉 게임입니다. 다양한 국가와 지역에 따라 게임의 현지화가 다릅니다. 게임은 무료이지만 게임 내 및 웹을 통해 '아이템 샵'을 구현하여 프리미엄 비즈니스 모델을 활용하여 플레이어가 독점적 인 게임 향상을 얻기 위해 실제 통화를 사용하여 특별 프리미엄 코인을 구입할 수 있습니다 및 기능, 유용한 항목 및 여러 가지 허영 내용",
+    "zh":"Cabal Online是由韩国公司ESTsoft开发的免费3D大型多人在线角色扮演游戏。不同国家和地区存在不同的游戏本地化版本。尽管是免费游戏，但该游戏通过在游戏中和通过网络实施“物品商店”来利用免费增值业务模型，允许玩家使用真实货币购买特殊的优质硬币，从而获得独家的游戏增强功能和功能，有用的物品和各种虚荣内容",
+    "ja":"Cabal Onlineは、韓国の会社ESTsoftが開発した、無料でプレイできる3Dのマルチプレイヤーオンラインロールプレイングゲームです。国や地域によって、ゲームのローカライズは異なります。無料でプレイできますが、ゲームは、ゲーム内とWebの両方で「アイテムショップ」を実装することでフリーミアムビジネスモデルを利用し、プレーヤーはリアル通貨を使用して特別なプレミアムコインを購入し、専用のゲーム拡張機能を入手できます。と機能、便利なアイテム、さまざまなバニティコンテンツ"
+  },
+  "Paladins: Champions of the Realm is a free-to":{
+    "en":"Paladins: Champions of the Realm is a free-to play online Hero shooter video game by Hi-Rez Studios. The game was developed by Evil Mojo Games, an internal studio of Hi-Rez, and was released in 2018 for Microsoft Windows, PlayStation 4, Xbox One, and Nintendo Switch. There are elements of both fantasy and science fiction, including medieval-looking soldiers who use ranged weapons such as shotguns and assault rifles instead of swords.",
+    "ko":"Paladins : Champions of the Realm은 Hi-Rez Studios의 무료 온라인 영웅 슈팅 비디오 게임입니다. 이 게임은 Hi-Rez의 내부 스튜디오 인 Evil Mojo Games가 개발했으며 2018 년에 Microsoft Windows, PlayStation 4, Xbox One 및 Nintendo Switch 용으로 출시되었습니다. 판타지와 공상 과학의 요소에는 칼 대신 산탄 총과 소총과 같은 원거리 무기를 사용하는 중세 군인이 포함됩니다.",
+    "zh":"《圣骑士：世界冠军》是由Hi-Rez Studios免费提供的在线英雄射击游戏。该游戏由Hi-Rez的内部工作室Evil Mojo Games开发，并于2018年针对Microsoft Windows，PlayStation 4，Xbox One和Nintendo Switch发行。幻想和科幻小说都有元素，包括使用medieval弹枪和突击步枪等远距离武器而非剑的中世纪士兵。",
+    "ja":"Paladins：Champions of the Realmは、Hi-Rez Studiosによる無料のオンラインヒーローシューティングゲームビデオゲームです。ゲームはHi-Rezの内部スタジオであるEvil Mojo Gamesによって開発され、Microsoft Windows、PlayStation 4、Xbox One、およびNintendo Switch用に2018年にリリースされました。剣の代わりにショットガンやアサルトライフルなどの遠隔武器を使用する中世の兵士を含む、ファンタジーとSFの両方の要素があります。"
+  },
+  "SGC is the coin used in the Suponic Game Platform, born with the unique algorithm. Gamers can use SGC to buy the items and also play against other gamers for wagering profit. The wagering system is set so that the professional gamers can make millions through SGC":{
+    "en":"SGC is the coin used in the Suponic Game Platform, born with the unique algorithm. Gamers can use SGC to buy the items and also play against other gamers for wagering profit. The wagering system is set so that the professional gamers can make millions through SGC",
+    "ko":"SGC는 Suponic Game Platform에서 사용되는 코인으로 고유 한 알고리즘으로 탄생했습니다. 게이머는 SGC를 사용하여 아이템을 구매하고 다른 게이머와 경쟁하여 이익을내는 것도 가능합니다. 베팅 시스템은 프로 게이머가 SGC를 통해 수백만 달러를 벌 수 있도록 설정되었습니다.",
+    "zh":"SGC是Suponic游戏平台中使用的代币，它具有独特的算法。玩家可以使用SGC来购买物品，也可以与其他玩家进行对弈以赢得利润。设置了投注系统，使职业玩家可以通过SGC赚取数百万美元",
+    "ja":"SGCは、Suponicゲームプラットフォームで使用されるコインで、独自のアルゴリズムで生まれました。ゲーマーはSGCを使用してアイテムを購入し、他のゲーマーと対戦して利益を得ることができます。賭けシステムは、プロのゲーマーがSGCを通じて数百万を稼ぐことができるように設定されています"
+  },
+  "Suponic Game Platform currently hosts 64 mobile game software's. All games can be downloaded in apk file, so that countries with access restrictions can also enjoy the games on our platform. The game developers":{
+    "en":"Suponic Game Platform currently hosts 64 mobile game software's. All games can be downloaded in apk file, so that countries with access restrictions can also enjoy the games on our platform. The game developers",
+    "ko":"Suponic Game Platform은 현재 64 개의 모바일 게임 소프트웨어를 호스팅합니다. 모든 게임은 apk 파일로 다운로드 할 수 있으므로 액세스 제한이있는 국가의 플랫폼에서도 게임을 즐길 수 있습니다. 게임 개발자",
+    "zh":"Suponic Game Platform目前托管64种手机游戏软件。所有游戏都可以apk文件下载，因此具有访问限制的国家/地区也可以在我们的平台上享受游戏。游戏开发商",
+    "ja":"Suponic Game Platformは現在64のモバイルゲームソフトウェアをホストしています。すべてのゲームはapkファイルでダウンロードできるため、アクセス制限のある国でもプラットフォームでゲームを楽しむことができます。ゲーム開発者"
+  },
+  "Suponic Protocol aims to setup the global standards in crypto game world, providing core base for the regulations and the development procedures for the game developers, analysts, designers, artists, publishers, and other participants in the industry. The goal is to establish an environment where eSports industry can flourish and where gamers and game developers can enjoy the convenience of the platform. After the endless endeavour to establish the protocol, the World eSports and Blockchain Association (WESBA) has officially recognized Suponic Protocol, and now we are contributing to invigorate the crypto game industry by providing open source":{
+    "en":"Suponic Protocol aims to setup the global standards in crypto game world, providing core base for the regulations and the development procedures for the game developers, analysts, designers, artists, publishers, and other participants in the industry. The goal is to establish an environment where eSports industry can flourish and where gamers and game developers can enjoy the convenience of the platform. After the endless endeavour to establish the protocol, the World eSports and Blockchain Association (WESBA) has officially recognized Suponic Protocol, and now we are contributing to invigorate the crypto game industry by providing open source",
+    "ko":"Suponic Protocol은 게임 개발자, 분석가, 디자이너, 아티스트, 출판사 및 기타 업계 참가자를위한 규정 및 개발 절차의 핵심 기반을 제공하여 암호화 게임 세계에서 글로벌 표준을 설정하는 것을 목표로합니다. eSports 산업이 번성하고 게이머와 게임 개발자가 플랫폼의 편리함을 누릴 수있는 환경을 구축하는 것이 목표입니다. WESBA (World eSports and Blockchain Association)는 프로토콜을 확립하기위한 끊임없는 노력 끝에 공식적으로 Suponic Protocol을 인정했으며, 현재 오픈 소스를 제공함으로써 암호화 게임 산업에 활력을 불어 넣고 있습니다.",
+    "zh":"Suponic协议旨在建立加密游戏世界的全球标准，为游戏开发人员，分析师，设计师，艺术家，发行商和行业中的其他参与者提供法规和开发程序的核心基础。目标是建立一个环境，电子竞技产业可以蓬勃发展，游戏玩家和游戏开发商可以享受该平台的便利。经过无休止的建立协议的努力，世界电子竞技与区块链协会（WESBA）正式认可了Suponic协议，现在我们通过提供开放源代码为加密游戏产业发展做出贡献。",
+    "ja":"Suponic Protocolは、暗号化ゲームの世界でグローバル標準をセットアップすることを目的としており、ゲーム開発者、アナリスト、デザイナー、アーティスト、パブリッシャー、および業界の他の参加者に規制と開発手順のコアベースを提供します。目標は、eSports業界が繁栄し、ゲーマーやゲーム開発者がプラットフォームの利便性を享受できる環境を確立することです。プロトコルの確立に尽力した後、World eSports and Blockchain Association（WESBA）が正式にSuponic Protocolを承認しました。現在、オープンソースを提供することで、暗号ゲーム業界の活性化に貢献しています"
+  },
+  "Use the SGC you received from the registration to play wagering mode against other players. (*Wagering: A type of sports betting, where the winner takes the wagered amount. It is different from gambling in the aspect that wagering is based on the skills of the players developed by time and effort. For legal )":{
+    "en":"Use the SGC you received from the registration to play wagering mode against other players. (*Wagering: A type of sports betting, where the winner takes the wagered amount. It is different from gambling in the aspect that wagering is based on the skills of the players developed by time and effort. For legal )",
+    "ko":"등록에서받은 SGC를 사용하여 다른 플레이어와 베팅 모드를 플레이하십시오. (* Wagering : 스포츠 베팅 유형으로, 우승자가 베팅 금액을받습니다. 베팅은 시간과 노력으로 개발 한 선수의 기술을 기반으로한다는 점에서 도박과 다릅니다.",
+    "zh":"使用您从注册中获得的SGC对其他玩家进行下注模式。 （*打赌：一种体育博彩，由获胜者获得打赌的金额。它与赌博的不同之处在于，打赌是基于时间和精力的发展而来的球员的技能。合法）",
+    "ja":"登録から受け取ったSGCを使用して、他のプレイヤーに対して賭博モードをプレイします。 （*賭け金：勝者が賭け金を受け取るスポーツ賭博の一種。賭け金は時間と労力によって開発されたプレーヤーのスキルに基づいているという点でギャンブルとは異なります。合法的な場合）"
+  },
+  "Assassin's Creed Odyssey is an action role-playing video game developed by Ubisoft Quebec and published by Ubisoft. It is the 11th major installment, and 21st overall, in the Assassin's Creed series and the successor to 2017's Assassin's Creed Origins.":{
+    "en":"Assassin's Creed Odyssey is an action role-playing video game developed by Ubisoft Quebec and published by Ubisoft. It is the 11th major installment, and 21st overall, in the Assassin's Creed series and the successor to 2017's Assassin's Creed Origins.",
+    "ko":"Assassin 's Creed Odyssey는 Ubisoft Quebec에서 개발하고 Ubisoft에서 게시 한 액션 롤 플레잉 비디오 게임입니다. Assassin 's Creed 시리즈의 11 번째 주요 작품이며, 21 번째로 2017 Assassin 's Creed Origins의 후속작입니다.",
+    "zh":"《刺客教条：奥德赛》是由魁北克育碧开发并由育碧发行的动作角色扮演视频游戏。这是《刺客信条》系列中的第11个主要部分，总体上是第21个，是2017年《刺客信条》起源的继任者。",
+    "ja":"アサシンクリードオデッセイは、Ubisoft Quebecが開発し、Ubisoftが公開したアクションロールプレイングビデオゲームです。 Assassin's Creedシリーズの11回目、全体で21回目となり、2017年のAssassin's Creed Originsの後継となります。"
+  },
+  "Art of War: Global Conflict (AOW) - is a real-time strategy online game in the best tradition of old classic PC RTS games. Command, conquer and defeat your enemy on the battlefield in this modern warfare game!":{
+    "en":"Art of War: Global Conflict (AOW) - is a real-time strategy online game in the best tradition of old classic PC RTS games. Command, conquer and defeat your enemy on the battlefield in this modern warfare game!",
+    "ko":"Art of War : Global Conflict (AOW)-오래된 고전 PC RTS 게임의 최고의 전통에 따른 실시간 전략 온라인 게임입니다. 이 현대 전쟁 게임에서 전장에서 적을 지휘하고 정복하고 물 리치십시오!",
+    "zh":"《孙子兵法：全球冲突》（AOW）-是一款实时战略在线游戏，具有旧经典PC RTS游戏的最佳传统。在这款现代战争游戏中，在战场上指挥，征服并击败敌人！",
+    "ja":"「アートオブウォー：グローバルコンフリクト（AOW）」-昔ながらのPC RTSゲームの最高の伝統に基づくリアルタイム戦略オンラインゲームです。この現代の戦争ゲームで、戦場で敵を指揮し、征服し、倒してください！"
+  },
+  "Contracts Wars is the first multiplayer free2play FPS with a RPG elements developing as the browser-based application for social networks and as a full-fledged downloadable client version.":{
+    "en":"Contracts Wars is the first multiplayer free2play FPS with a RPG elements developing as the browser-based application for social networks and as a full-fledged downloadable client version.",
+    "ko":"Contracts Wars는 소셜 네트워크를위한 브라우저 기반 응용 프로그램 및 본격적인 다운로드 가능한 클라이언트 버전으로 개발되는 RPG 요소가 포함 된 최초의 멀티 플레이어 free2play FPS입니다.",
+    "zh":"Contracts Wars是第一个具有RPG元素的多人免费游戏FPS，它已开发为社交网络的基于浏览器的应用程序以及完整的可下载客户端版本。",
+    "ja":"コントラクトウォーズは、ソーシャルネットワーク用のブラウザーベースのアプリケーションとして、また本格的なダウンロード可能なクライアントバージョンとして開発されたRPG要素を備えた最初のマルチプレイヤーfree2play FPSです。"
+  }
+}
